@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Aidan F. Coyle
+title: Olivia Cattau's Notebook
 
 # Your name to show in the footer
-author: Aidan Coyle
+author: Olivia Cattau
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv/Coyle_CV_Nov_2020.pdf"
+  CV: "cv/Cattau_CV_July_2021.pdf"
   About: "aboutme"
   Lab Notebook: "notebook"
-  Bitter Crab blog: "https://bittercrab.wordpress.com/"
   Resources:
-    - DecaPOD: "https://www.listennotes.com/podcasts/decapod-bittercrabscience-grace-crandall-uf8bqMArwV1/"
     - Roberts Lab handbook: "https://robertslab.github.io/resources/"
 
 # --- Logo --- #
@@ -40,9 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "afcoyle@uw.edu"
+  email: "ocattau@uw.edu"
 #  facebook: deanattali
-  github: afcoyle
+  github: ocattau
 #  twitter: daattali
 #  patreon: DeanAttali
 #  reddit: yourname
@@ -50,7 +48,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: coyle_aidan
+  instagram: olivia cattau
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
