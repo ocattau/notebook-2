@@ -2,8 +2,8 @@
 layout: post
 title: CS update
 date: '2022-07-08'
-categories: CS, oyster, methods
-tags: CS, BSA, results
+categories: CS, oyster methods
+tags: CS BSA results
 ---
 [link to previous posts](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-12-06-CS7_BSAinspection.md)
 
