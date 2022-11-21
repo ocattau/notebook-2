@@ -2,7 +2,7 @@
 layout: post
 title: Citrate Synthase technical replicates
 date: '2021-09-20'
-categories: CS, oyster results methods
+categories: CS oyster results methods
 tags: CS BSA update results 
 ---
 **Citrate-Synthase (CS) Test Run with Technical Replicates**
