@@ -2,8 +2,8 @@
 layout: post
 title: BSA check
 date: '2021-11-8'
-categories: CS, oyster, methods
-tags: BSA, update
+categories: CS oyster methods
+tags: BSA update
 ---
 **bovine serum albumin (BSA) test**
 
