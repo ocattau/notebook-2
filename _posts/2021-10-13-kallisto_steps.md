@@ -2,8 +2,8 @@
 layout: post
 title: steps on how to create kalllisto index file
 date: '2021-10-13'
-categories: transciptome, geoduck, methods
-tags: kallisto, index
+categories: transcriptome geoduck methods
+tags: kallisto index
 ---
 
 [link to Patcher Lab handbook](https://pachterlab.github.io/kallisto/starting)
