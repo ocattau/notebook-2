@@ -2,8 +2,8 @@
 layout: post
 title: BSA script
 date: '2021-11-29'
-categories: oyster, CS, methods
-tags: CS, BSA, update
+categories: oyster CS methods
+tags: CS BSA update
 ---
 
 [link to previous posts](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-11-29-CS6_activity.md)
