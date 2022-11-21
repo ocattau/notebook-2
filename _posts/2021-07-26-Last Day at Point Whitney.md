@@ -2,8 +2,8 @@
 layout: post
 title: Last Day at Pt Whitney
 date: '2021-07-26'
-categories: updates, pacific oysters, Matt George
-tags: shellfish, c. gigas
+categories: CS, oyster
+tags: update, CS
 ---
 # End of an ERA
 ## Today was the last day (Monday July 26th 2021) at Point Whitney working with Matt George (mngeorge@uw.edu) on oyster disections for his pacific oyster triploid temperature stress experiment. 
