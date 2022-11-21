@@ -15,7 +15,7 @@ author: Olivia Cattau
 navbar-links:
   CV: "cv/Cattau_CV_July_2021.pdf"
   About: "aboutme"
-  Lab Notebook: "notebook"
+  Lab Notebook: "https://github.com/ocattau/notebook-2"
   Resources:
     - Roberts Lab handbook: "https://robertslab.github.io/resources/"
 
@@ -39,7 +39,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ocattau@uw.edu"
-#  facebook: deanattali
+#  facebook: 
   github: ocattau
 #  twitter: daattali
 #  patreon: DeanAttali
