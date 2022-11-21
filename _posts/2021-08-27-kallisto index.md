@@ -2,9 +2,8 @@
 layout: post
 title: Kallisto Index for P. generosa
 date: '2021-08-27'
-categories: index
-tags: test
-tags: transcriptome, p. generosa, index, kallisto
+categories: transciptome, methods
+tags: index, kallliso
 ---
 # using Roadrunner for bulding a Kallisto index
 
