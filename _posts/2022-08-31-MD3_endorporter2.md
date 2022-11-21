@@ -18,10 +18,10 @@ tags: update results
 ## Trial 1: fertilized embryos @ 500 or 5,000 cells/well and Endo-porter at 1uM or 6uM 
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
-| 1uM (500) | 5% | ![]() | ![]() |
-| 1uM (5k) | 5%| ![]() | ![]() |
-| 6uM (500) | 5% | ![]() | ![]() |
-| 6uM (5k) | 5% | ![]() | ![]() |
+| 1uM (500) | 5% | NA | NA |
+| 1uM (5k) | 5%| NA | NA |
+| 6uM (500) | 5% | NA | NA |
+| 6uM (5k) | 5% | NA | NA |
 
 ## Trial 2: fertilized embryos @ 500 and 5,000 cells/well and Endo-porter at 1uM or 6uM + Dex 
 | Concentration | Mortality | Regular | Blue | Fluorescence |
