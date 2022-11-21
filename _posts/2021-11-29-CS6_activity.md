@@ -69,3 +69,5 @@ time_0$CSactivity<-SampleCSactivity #(nmol/min/uL)
 |gill_1|	0.216|	3.806|	2.82E-03|	below range|	NA|	NA|
 |gill_2|	0.08|	0.95|	7.04E-04|	445.83|	0.445833333|	1.58E-03|
 
+[previous post](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-11-09-CS5_bsaresults.md)
+
