@@ -2,9 +2,11 @@
 layout: post
 title: BSA script
 date: '2021-11-29'
-categories: updates, research, CS, BSA
-tags: P. generosa, citrate-synthase, BSA, c. gigas
+categories: oyster, CS, methods
+tags: CS, BSA, update
 ---
+
+[link to previous posts](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-11-29-CS6_activity.md)
 
 [link to data for standard curve](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/main/202107_EXP2/citrate_synthase/BSA_12.6.21_results.csv)
 
