@@ -2,8 +2,8 @@
 layout: post
 title: CS script
 date: '2021-11-29'
-categories: CS, oyster, methods
-tags: CS, BSA, results
+categories: CS, oyster methods
+tags: CS BSA results
 ---
 # Get Standardized protein concentration (ug/mL)
 ```{r}
