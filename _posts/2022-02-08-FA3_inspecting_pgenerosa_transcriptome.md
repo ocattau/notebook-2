@@ -2,9 +2,11 @@
 layout: post
 title: Functional Annotation of P. Generosa transcriptome part 3
 date: '2022-02-08'
-categories: kallisto, transcriptome, P. generosa, computation, index, QC, count data
-tags: P. generosa, index, kallisto
+categories: transcriptome, geoduck, methods
+tags: CS, BSA, index
 ---
+
+[link to previous post](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-12-11-FA2_goslims.md)
 
 # First Step: take merged data from geoduck transcriptomes and upload to R
 ```{r}
