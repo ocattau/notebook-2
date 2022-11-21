@@ -2,8 +2,8 @@
 layout: post
 title: Goals for August
 date: '2021-08-01'
-categories: updates, research
-tags: c. gigas, pacific oysters
+categories: goals
+tags: update
 ---
 
 # August 2021 goals
