@@ -2,8 +2,8 @@
 layout: post
 title: CS script
 date: '2021-11-29'
-categories: updates, research, CS, BSA
-tags: P. generosa, citrate-synthase, BSA, c. gigas
+categories: CS, oyster, methods
+tags: CS, BSA, results
 ---
 # Get Standardized protein concentration (ug/mL)
 ```{r}
@@ -68,4 +68,6 @@ time_0$CSactivity<-SampleCSactivity #(nmol/min/uL)
 |mantle_2|	0.527|	10.337|	7.66E-03|	89.17|	0.089166667|	8.59E-02|
 |gill_1|	0.216|	3.806|	2.82E-03|	below range|	NA|	NA|
 |gill_2|	0.08|	0.95|	7.04E-04|	445.83|	0.445833333|	1.58E-03|
+
+[previous post](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-11-09-CS5_bsaresults.md)
 

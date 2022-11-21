@@ -2,8 +2,8 @@
 layout: post
 title: Goals for Septemeber
 date: '2021-09-01'
-categories: updates, research
-tags: c. gigas, pacific oysters, geoduck,  P. generosa
+categories: goals
+tags: update
 ---
 **Goals for September**
 

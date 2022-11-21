@@ -4,7 +4,7 @@ title: blast locally
 date: '2021-05-12'
 categories: blast
 tags: test
-tags: hemat_transciptome
+tags: transcriptome, geoduck, methods
 ---
 
 # 2021 May 12th 

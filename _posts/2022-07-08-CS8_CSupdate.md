@@ -2,9 +2,11 @@
 layout: post
 title: CS update
 date: '2022-07-08'
-categories: updates, research, CS, BSA
-tags: citrate-synthase, BSA, c. gigas
+categories: CS, oyster, methods
+tags: CS, BSA, results
 ---
+[link to previous posts](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-12-06-CS7_BSAinspection.md)
+
 # Citrate-Synthase for NOPP gigas ploidy temp 2021 experiment
 ## Code for caluclating Bovine Serum Assay Protein Results and Citrate-synthase Assay Results
 1. batch 1 samples 1-23 [here](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/main/202107_EXP2/citrate_synthase/CS%20script%20samples%201-23.Rmd)

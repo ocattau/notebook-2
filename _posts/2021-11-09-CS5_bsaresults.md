@@ -2,8 +2,8 @@
 layout: post
 title: BSA check
 date: '2021-11-8'
-categories: updates, research, CS, BSA
-tags: P. generosa, citrate-synthase, BSA, c. gigas
+categories: CS, oyster, methods
+tags: BSA, update
 ---
 **bovine serum albumin (BSA) test**
 
@@ -13,3 +13,6 @@ tags: P. generosa, citrate-synthase, BSA, c. gigas
 
 ## standard equation 
 *y= 0.964 + 0.739120192797183x - 0.222788593132925x^2 -0.0570787874329743x^3*
+ 
+ 
+ [link to previous post](https://ocattau.github.io/notebook-2/2021-10-08-CS4_BSA&CS/)

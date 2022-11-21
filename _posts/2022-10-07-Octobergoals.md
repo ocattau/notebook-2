@@ -2,8 +2,8 @@
 layout: post
 title: Goals for October
 date: '2022-10-01'
-categories: updates, research
-tags: c. gigas, pacific oysters, geoduck,  P. generosa, SAFS
+categories: goals
+tags: update 
 ---
 
 # Computation Work

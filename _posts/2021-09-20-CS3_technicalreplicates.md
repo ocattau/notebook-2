@@ -2,8 +2,8 @@
 layout: post
 title: Citrate Synthase technical replicates
 date: '2021-09-20'
-categories: updates, research, CS
-tags: P. generosa, citrate-synthase
+categories: CS, oyster, results, methods
+tags: CS, BSA, update, results 
 ---
 **Citrate-Synthase (CS) Test Run with Technical Replicates**
 
@@ -32,4 +32,4 @@ tags: P. generosa, citrate-synthase
 ![derivative_C](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/musc_C%20derivative%209.20.21-1.png)
 
 
-
+[link to previous post](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-09-10-CS_2.md)

@@ -2,11 +2,11 @@
 layout: post
 title: Molecular Delivery 3
 date: '2022-08-31'
-categories: updates, research, oysters, crispr, dextran
-tags: geoduck, oysters, c.gigas, p.generosa
+categories: molcular_delivery oyster methods
+tags: update results
 ---
 
-# Follow-up from Molecular Delivery 2 experiment 
+# Follow-up from Molecular Delivery 2 experiment [link](https://github.com/ocattau/notebook-2/blob/master/_posts/2022-08-26-MD2_endoporter.md)
 ### All treatments alive and well 
 
 ## Control: fertilized embryos @ 500 or 5,000 cells per well. 

@@ -2,8 +2,8 @@
 layout: post
 title: updates
 date: '2021-08-12'
-categories: updates, research
-tags: mac os, research, bioinformatics
+categories: 
+tags: update
 ---
 
 # The worst happened yesterday, 

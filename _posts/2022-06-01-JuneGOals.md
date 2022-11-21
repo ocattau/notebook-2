@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Goals for June
+title: Goals for May/June
 date: '2022-06-01'
-categories: updates, research
-tags: c. gigas, pacific oysters, geoduck,  P. generosa, SAFS
+categories: goals
+tags: update
 ---
 
 # SAFS Work

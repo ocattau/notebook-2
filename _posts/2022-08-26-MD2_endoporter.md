@@ -2,11 +2,11 @@
 layout: post
 title: Molecular Delivery 2
 date: '2022-08-26'
-categories: updates, research, oysters, crispr, dextran
-tags: geoduck, oysters, c.gigas, p.generosa
+categories: oyster results molecular_delivery
+tags: results update
 ---
 
-# Follow-up from Molecular Delivery 1 experiment 
+# Follow-up from Molecular Delivery 1 experiment [link](https://github.com/ocattau/notebook-2/blob/master/_posts/2022-08-20-MD1_moleculardelivery.md)
 
 ## Control: fertilized egs + endo-porter at 3 concentration (2uM/6uM/10uM) at 10,000 cells/well
 | Concentration | Mortality | Regular | Fluorescence |

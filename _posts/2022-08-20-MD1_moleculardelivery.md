@@ -2,14 +2,14 @@
 layout: post
 title: Molecular Delivery 1
 date: '2022-08-20'
-categories: updates, research, oysters, crispr, dextran
-tags: geoduck, oysters, c.gigas, p.generosa
+categories: molecular_delivery, oyster, methods
+tags: results, update
 ---
-
 
 ## Update for _C.gigas_ Molecular Delivery Project w/ Mac Gavery on August 18th 2022
 
 protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd39zkixiHknnmJKyw/edit)
+
 
 ### Experimental Set-up (c. gigas embryos)
 

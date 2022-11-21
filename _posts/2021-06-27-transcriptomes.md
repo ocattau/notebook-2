@@ -1,12 +1,13 @@
 ---
 layout: post
-title: learning how to characterize larval/juvenile geoduck transccriptomes
+title: learning how to characterize larval/juvenile geoduck transcriptomes
 date: '2021-06-29'
-categories: geoduck
-tags: RNA-seq
+categories: geoduck, transciptome, methods
+tags: blast, RNA-seq
 ---
 
-# 2021 May 12th 
+# 2021 May 12th RNA seq results analysis 
+
 library(credentials)
 set_github_pat()
 
