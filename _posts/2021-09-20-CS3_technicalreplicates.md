@@ -32,4 +32,4 @@ tags: CS, BSA, update, results
 ![derivative_C](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/musc_C%20derivative%209.20.21-1.png)
 
 
-
+[link to previous post](https://github.com/ocattau/notebook-2/blob/master/_posts/2021-09-10-CS_2.md)
