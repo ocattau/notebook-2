@@ -2,8 +2,8 @@
 layout: post
 title: Goals for July
 date: '2022-07-01'
-categories: updates, research
-tags: c. gigas, pacific oysters, geoduck,  P. generosa, SAFS
+categories: goals
+tags: update
 ---
 
 # SAFS Work
