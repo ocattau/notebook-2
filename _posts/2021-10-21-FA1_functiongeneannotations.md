@@ -2,7 +2,7 @@
 layout: post
 title: Functional Annotation of P. Generosa transcriptome
 date: '2021-10-21'
-categories: geoduck, transcriptome, methods
+categories: geoduck transcriptome methods
 tags: index
 ---
 
