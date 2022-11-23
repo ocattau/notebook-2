@@ -14,7 +14,7 @@ author: Olivia Cattau
 # List of links in the navigation bar
 navbar-links:
   CV: "cv/Cattau_CV_July_2021.pdf"
-  About: "blob/master/aboutme.md"
+  About: "index.html"
   Lab Notebook: "notebook"
   Resources:
     - Roberts Lab handbook: "https://robertslab.github.io/resources/"
