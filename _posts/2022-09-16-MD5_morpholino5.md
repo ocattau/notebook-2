@@ -18,8 +18,8 @@ tags: update results
 
 | Treatment | Regular | Fluorescence |
 |---|---|---|
-|Control | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/control_x10.jpg)| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/control_green_x10.jpg)|
-| Endo- control| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/endo_control_6uM_x10.jpg) | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/endo_control_6uM_green_x10.jpg)|
-| Treatment 1 | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/stand_control_fluor_reg_10uM_6uM.jpg)| ![](https://raw.githubusercontent.comm/ocattau/ocattau.github.io/blob/master/assets/091522/stand_control_fluor_green_10uM_6uM.jpg) |
-| Treatment 2 | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_control_10uM_reg_x10.jpg)| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_control_10uM_green_x10.jpg)| 
-|Treatment 3| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_endo_10uM_6uM_reg_x10.jpg) |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/blob/master/assets/091522/VASA_endo_10uM_6uM_green_x10.jpg)|
+| Control | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/control_x10.jpg)| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/control_green_x10.jpg)|
+| Endo- control| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/endo_control_6uM_x10.jpg) | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/endo_control_6uM_green_x10.jpg)|
+| Treatment 1 | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/stand_control_fluor_reg_10uM_6uM.jpg)| ![](https://raw.githubusercontent.comm/ocattau/ocattau.github.io/master/assets/091522/stand_control_fluor_green_10uM_6uM.jpg) |
+| Treatment 2 | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/VASA_control_10uM_reg_x10.jpg)| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/VASA_control_10uM_green_x10.jpg)| 
+|Treatment 3| ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/VASA_endo_10uM_6uM_reg_x10.jpg) |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/091522/VASA_endo_10uM_6uM_green_x10.jpg)|
