@@ -18,6 +18,7 @@ protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd3
 - Group C: Mac's Control, fertilized in hatchery style, oocytes with dextran, same densities as above (embryos) 
 
 ### 1 hours post fertilization
+
 | Group # | Regular | Fluorescence |
 |---|---|---|
 | Group A |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran_green.jpg)|
@@ -25,6 +26,7 @@ protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd3
 
 
 ### 24 hours post fertilization (August 19th)
+
 | Group # | Regular | Fluorescence |
 |---|---|---|
 | Group A | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex.jpg) | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex_green.jpg) |
