@@ -20,15 +20,15 @@ protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd3
 ### 1 hours post fertilization
 | Group # | Regular | Fluorescence |
 |---|---|---|
-|Group A|![pic](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran_green.jpg)|
-|Group B|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_dextran_regular.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_dextran_green_2.jpg)|
+| Group A |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_no_dextran_green.jpg)|
+| Group B |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_dextran_regular.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/embryos_dextran_green_2.jpg)|
 
 
 ### 24 hours post fertilization (August 19th)
 | Group # | Regular | Fluorescence |
 |---|---|---|
-|Group A|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex_green.jpg)|
-|Group B|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/20k_dex_10x.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/20k_dex_green_10x.jpg)|
+| Group A |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/Dhinge_24hours_no_dex_green.jpg)|
+| Group B |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/20k_dex_10x.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/20k_dex_green_10x.jpg)|
 
 
 ### 48 hours post fertilization (August 20th)
@@ -37,6 +37,6 @@ protocol [here](https://docs.google.com/document/d/1tnhOlAjTnE3xq_jYPnpyv-GLDOd3
 
 | Group # | Regular | Fluorescence |
 |---|---|---|
-|Group A|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_regular_20k.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_20k_green.jpg)|
-|Group B|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_regular.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_embryos_green.jpg)|
-|Group C|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_20k_regular_no_dex.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_embryos_20k_green.jpg)| 
+| Group A |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_regular_20k.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/control_20k_green.jpg)|
+| Group B |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_regular.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/dextran_20k_embryos_green.jpg)|
+| Group C |![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_20k_regular_no_dex.jpg)|![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/mac_control_embryos_20k_green.jpg)| 
