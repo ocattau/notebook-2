@@ -9,13 +9,15 @@ tags: update results
 # Follow-up from Molecular Delivery 2 experiment [link](https://github.com/ocattau/notebook-2/blob/master/_posts/2022-08-26-MD2_endoporter.md)
 ### All treatments alive and well 
 
-## Control: fertilized embryos @ 500 or 5,000 cells per well. 
+## Control: fertilized embryos @ 500 or 5,000 cells per well
+
 | Concentration | Mortality | Fluorescence |
 |---|---|---|
 | 500 | great survival | no Flour | 
 | 5,000 | looks perfect| no Flour | 
 
 ## Trial 1: fertilized embryos @ 500 or 5,000 cells/well and Endo-porter at 1uM or 6uM 
+
 | Concentration | Mortality | Regular | Fluorescence |
 |---|---|---|---|
 | 1uM (500) | 5% | NA | NA |
@@ -24,6 +26,7 @@ tags: update results
 | 6uM (5k) | 5% | NA | NA |
 
 ## Trial 2: fertilized embryos @ 500 and 5,000 cells/well and Endo-porter at 1uM or 6uM + Dex 
+
 | Concentration | Mortality | Regular | Blue | Fluorescence |
 |---|---|---|---|---| 
 | Dex 1uM (500) | Very active | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/090122/1uM_dex_500_regular.jpg) | NA | ![](https://raw.githubusercontent.com/ocattau/ocattau.github.io/master/assets/090122/1uM_dex_green_500.jpg) |
