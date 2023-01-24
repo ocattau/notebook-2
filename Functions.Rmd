@@ -1,0 +1,12 @@
+---
+title: "Functions"
+author: "Olivia Cattau"
+date: '2022-12-08'
+output: html_document
+---
+```{r}
+#delete na function
+delete.na <- function(DF, n=0) {
+  DF[rowSums(is.na(DF)) <= n,]
+}
+```
