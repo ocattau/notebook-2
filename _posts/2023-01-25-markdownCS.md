@@ -6,7 +6,7 @@ categories: CS oyster methods
 tags: CS BSA results
 ---
 
-Coding Resources for paper named X authored by Olivia Cattau, Matt George and Steven Roberts
+Coding Resources for paper named "Citrate Sythase Response and Multiple Stress in Pacific Oysters" authored by Olivia Cattau, Matt George and Steven Roberts
 University of Washington School of Aquatic and Fisheries Sciences
 Primary Contact: Olivia Catttau
 
