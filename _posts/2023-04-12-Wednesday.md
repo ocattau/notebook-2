@@ -10,8 +10,9 @@ tags: update index
 
 # Blasting against P.gen with other transctiptomes
 - Merceneria Mercenaria [Mercenaria stand alone blast](https://gannet.fish.washington.edu/gigas/data/p.generosa/Mercenaria_blastx.tab)
-- Manilla Clam [Ruditapes philippinarum stand alone blast: job 4546808]()
-- Merceneria Against Pgenerosa transcriptome [job 4546810]()
+- Manilla Clam [Ruditapes philippinarum stand alone blast: job 4546808](https://gannet.fish.washington.edu/gigas/data/p.generosa/Pgen_Mercenaria_blastx.tab)
+- Merceneria Against Pgenerosa transcriptome [Pgen_db_Mercenaria](https://gannet.fish.washington.edu/gigas/data/p.generosa/Mercenaria_Pgenenerosa_blastx.tab)
+- Manilla Against Pgenerosa transcriptome [Pgen_db_Manilla]()
 
 # Compairative Transcriptome Research
 
@@ -63,14 +64,14 @@ In this study, we sequenced the whole genome of the Manila clam and investigated
 Linked articles: The Whole-Genome and Transcriptome of the Manila Clam (Ruditapes philippinarum) Mun et al 2017 Genome Biology and Evolution
 https://doi.org/10.1093/gbe/evx096
 
-"﻿In this current study, we sequenced the whole-genome
+"In this current study, we sequenced the whole-genome
 and transcriptome (three tissues) of R. philippinarum, using the Illumina HiSeq 2500 platform."
 
-"﻿Consequently, to improve accuracy of gene prediction, we incorporated R. philippinarum transcriptome data for annotating gene sets in the assembled genome. Our study provides the basic knowledge for understanding genomic features of R. philippinarum and our data will be useful for further comparative, systematic, and functional genomics studies in bivalve species."
+"Consequently, to improve accuracy of gene prediction, we incorporated R. philippinarum transcriptome data for annotating gene sets in the assembled genome. Our study provides the basic knowledge for understanding genomic features of R. philippinarum and our data will be useful for further comparative, systematic, and functional genomics studies in bivalve species."
 
 "Furthermore, we performed transcriptome analysis with three different tissues in order to support genome annotation and then identified 41,275 transcripts which were annotated"
 
-"﻿Recently, transcriptome analysis of R. philippinarum using 454 pyrose- quencing technology revealed putative members of immuno- logical defense genes involved in complement cascades, apoptosis, and the toll like signaling pathways (Moreira et al. 2012)."
+"Recently, transcriptome analysis of R. philippinarum using 454 pyrose- quencing technology revealed putative members of immuno- logical defense genes involved in complement cascades, apoptosis, and the toll like signaling pathways (Moreira et al. 2012)."
 
 --Trinity assembly 
 
