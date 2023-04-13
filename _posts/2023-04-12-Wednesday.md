@@ -12,7 +12,9 @@ tags: update index
 - Merceneria Mercenaria [Mercenaria stand alone blast](https://gannet.fish.washington.edu/gigas/data/p.generosa/Mercenaria_blastx.tab)
 - Manilla Clam [Ruditapes philippinarum stand alone blast: job 4546808](https://gannet.fish.washington.edu/gigas/data/p.generosa/Pgen_Mercenaria_blastx.tab)
 - Merceneria Against Pgenerosa transcriptome [Pgen_db_Mercenaria](https://gannet.fish.washington.edu/gigas/data/p.generosa/Mercenaria_Pgenenerosa_blastx.tab)
-- Manilla Against Pgenerosa transcriptome [Pgen_db_Manilla]()
+- Manilla Against Pgenerosa transcriptome [Pgen_db_Manilla](https://gannet.fish.washington.edu/gigas/data/p.generosa/Manilla_Pgenenerosa_blastx.tab)
+- Pgenerosa Against Merceneria DB [Mercenaria_db_Pgen]()
+- Pgenerosa Against Manilla DB [Manilla_db_Pgen]()
 
 # Compairative Transcriptome Research
 
@@ -91,7 +93,7 @@ Paper 2: doi 10.1186/s12915-023-01551-z
 
 
 Pearl Oyster: 
-"﻿The completion of the pearl oyster genome sequence has accelerated studies on the genomes of other members of the bivalve family (Takeuchi et al. 2012, 2016; Zhang et al. 2012)." 
+"The completion of the pearl oyster genome sequence has accelerated studies on the genomes of other members of the bivalve family (Takeuchi et al. 2012, 2016; Zhang et al. 2012)." 
 
 
 ![image](https://user-images.githubusercontent.com/81712104/231642949-fd915044-48cb-465a-b705-ae2893c7a8ae.png)
