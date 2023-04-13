@@ -2,7 +2,7 @@
 layout: post
 title: Wednesday Update
 date: '2023-04-12'
-categories: daily_log, geoduck, results
+categories: daily_log geoduck results
 tags: update index 
 ---
 
