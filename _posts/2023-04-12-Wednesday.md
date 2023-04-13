@@ -13,7 +13,7 @@ tags: update index
 - Manilla Clam [Ruditapes philippinarum stand alone blast: job 4546808]()
 - Merceneria Against Pgenerosa transcriptome [job 4546810]()
 
-# Compairative Transciptome Research
+# Compairative Transcriptome Research
 
 Northern Quahog (Mercenaria mercenaria) 
 Transcriptome, yes! 
