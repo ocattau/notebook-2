@@ -8,7 +8,9 @@ tags: update index
 
 # Pgenerosa Tissues Alone
 
-- 
+## Scatter plot of tpm values by tissue type
+![](https://raw.githubusercontent.com/ocattau/notebook-2/master/assets/img/juv_gonad_scatter.png)
+![](https://raw.githubusercontent.com/ocattau/notebook-2/master/assets/img/juv_heart_scatter2.png) 
 
 # Compairative Transcriptome Analysis (three clam species) 
 
