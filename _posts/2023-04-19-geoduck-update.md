@@ -7,9 +7,23 @@ tags: update index
 ---
 
 # Pgenerosa Tissues Alone
+
 - 
 
 # Compairative Transcriptome Analysis (three clam species) 
+
+## Boxplot
+
+![](https://raw.githubusercontent.com/ocattau/notebook-2/master/assets/img/compairative_transcriptome_top20.png)
+
+## Heatmap 
+
+![](https://raw.githubusercontent.com/ocattau/notebook-2/master/assets/img/heatmap3-v1.png)
+
+## Heatmap w/ Pgenerosa
+
+![](https://raw.githubusercontent.com/ocattau/notebook-2/master/assets/img/heatmap2-v1.png)
+
 ## Blast DB hits
 
 | query | db | unique genes |
@@ -21,15 +35,9 @@ tags: update index
 | Pgenerosa | uniprot | 34,947 |
 | Pgenerosa | goslims | 7,737 |
 
-## Boxplot
-
-![](https://raw.githubusercontent.com/course-fish546-2023/olivia-geoduck/main/output/plots/compairative_transcriptome_top20.png?token=GHSAT0AAAAAAB64XHVPHOWXJE5QKWES2MIUZCAJPLQ)
-## Heatmap 
-
-![](https://raw.githubusercontent.com/course-fish546-2023/olivia-geoduck/main/output/plots/heatmap2-v1.png?token=GHSAT0AAAAAAB64XHVOAJYP4VHBHYVTE4UYZCAJQOQ)
-## Heatmap w/o Pgenerosa
-
-![](https://raw.githubusercontent.com/course-fish546-2023/olivia-geoduck/main/output/plots/heatmap3-v1.png?token=GHSAT0AAAAAAB64XHVO6DEN7WNIHQARC5LIZCAJRVA)
-
 # Compairative Genome analysis
+
 - TBD
+
+
+
